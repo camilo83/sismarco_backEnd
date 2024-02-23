@@ -1,3 +1,3 @@
 # SISMARCO Back End
 
-Este es el Back End de Sismarco
+Este es el Back End de Sismarco.
